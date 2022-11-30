@@ -26,8 +26,9 @@ Step5:
 Print the outputs and end the program
 
 ## Program:
-Developed by: MS JEEVA
-Register Number: 212221230040
+Developed by: Guhanandan V
+
+Register Number: 212221220014
 
 ~~~
 
