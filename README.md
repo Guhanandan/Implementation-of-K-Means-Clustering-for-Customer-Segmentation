@@ -79,23 +79,37 @@ plt.title("Customer Segments")
 ## Output:
 ### Data Head:
 
+![o1](https://user-images.githubusercontent.com/100425381/204845732-5a6eef26-5a5e-4022-91d0-83a47b64e27a.jpg)
+
 
 ### Checking For Null Data:
+
+![o3](https://user-images.githubusercontent.com/100425381/204845749-0b5ddab0-a26b-4e07-ba6b-37176a97f7dc.jpg)
 
 
 ### Data Information:
 
+![o7](https://user-images.githubusercontent.com/100425381/204845765-b4d7b5c9-9ee9-4d28-94af-bc8437f4937b.jpg)
+
 
 ### Within Cluster Sum of Square (WCSS):
+
+![o5](https://user-images.githubusercontent.com/100425381/204845775-3c331478-e815-48fb-af48-47294b2a4d57.jpg)
 
 
 ### Elbow Method:
 
+![o4](https://user-images.githubusercontent.com/100425381/204845794-d5c9b9f3-ce16-47f1-abc3-556456f91061.jpg)
+
 
 ### K-means:
 
+![o8](https://user-images.githubusercontent.com/100425381/204845956-4bcda332-f4d1-4a63-8a4b-0ea700d6f721.jpg)
+
 
 ### Cluster:
+
+![o6](https://user-images.githubusercontent.com/100425381/204845941-3fe9cb7e-93f4-4b8a-bb7d-62b0fcf71d94.jpg)
 
 
 ## Result:
